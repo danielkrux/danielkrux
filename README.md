@@ -12,9 +12,9 @@ In conclusion, my blend of technical knowledge, creativity, and focus on user ex
 
 From time to time I like to keep myself busy with side projects, feel free to take a look!
 
-- 🧑‍🍳 [Dish It Up](https://github.com/danielkrux/dish-it-up) - App built with Expo and React Native to easily import, organize and manage your recipes in one app. It's available for Android and iOS.
+- 🧑‍🍳 [Dish It Up](https://github.com/danielkrux/dish-it-up) - iOS and Android app built with Expo and React Native to easily import, organize and manage your recipes in one app.
 
-<!-- - 🎮 [Connect Four](https://github.com/danielkrux/connect-four) - Fun game built with NextJS and TailWind CSS. -->
+- 🎮 [Connect Four](https://github.com/danielkrux/connect-four) - web game built with NextJS and TailwindCSS. Uses the new server components approach. It saves the game state in cookies, so an accidental refresh won't throw away your score 🤓 Play it [here](https://connect-four-danielkrux.vercel.app/)!
 
 ## Social 📱
 
