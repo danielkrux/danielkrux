@@ -16,6 +16,8 @@ From time to time I like to keep myself busy with side projects, feel free to ta
 
 - 🎮 [Connect Four](https://github.com/danielkrux/connect-four) - web game built with NextJS and TailwindCSS. Uses the new server components approach. It saves the game state in cookies, so an accidental refresh won't throw away your score 🤓 Play it [here](https://connect-four-danielkrux.vercel.app/)!
 
+- 🔗 [devlinks](https://github.com/danielkrux/link-share) - web app built with NextJS, TailwindCSS and Supabase. A platform where you can create a page that contains your most important developer links, like GitHub, LinkedIn etc,... You can manage your links and public profile data on the dashboard.
+
 ## Social 📱
 
 If you'd like to reach out, you can find me on LinkedIn or send me an email:
